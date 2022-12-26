@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val aggressionButton = findViewById<Button>(R.id.aggressionTestButton)
         aggressionButton.setOnClickListener {
-            val intent = Intent(this,AgressionTest::class.java)
+            val intent = Intent(this,AggressionTest::class.java)
             startActivity(intent)
         }
     }

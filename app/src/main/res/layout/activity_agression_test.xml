@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".AgressionTest">
+    tools:context=".AggressionTest">
 
     <TextView
         android:id="@+id/textView"
@@ -43,6 +43,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -95,6 +96,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -147,6 +149,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -199,6 +202,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -251,6 +255,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -303,6 +308,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg6"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -355,6 +361,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg7"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -407,6 +414,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg8"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -459,6 +467,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg9"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -511,6 +520,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg10"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -563,6 +573,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg11"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -615,6 +626,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg12"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -667,6 +679,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg13"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -719,6 +732,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg14"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -771,6 +785,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg15"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -823,6 +838,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg16"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -875,6 +891,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg17"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -927,6 +944,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg18"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -979,6 +997,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg19"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1031,6 +1050,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg20"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1083,6 +1103,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg21"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1135,6 +1156,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg22"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1187,6 +1209,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg23"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1239,6 +1262,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg24"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1291,6 +1315,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg25"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1343,6 +1368,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg26"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1395,6 +1421,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg27"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1447,6 +1474,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg28"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1499,6 +1527,7 @@
                     android:textSize="18sp" />
 
                 <RadioGroup
+                    android:id="@+id/rg29"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -1543,7 +1572,7 @@
                 android:orientation="horizontal">
 
                 <Button
-                    android:id="@+id/button"
+                    android:id="@+id/submitButton"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
