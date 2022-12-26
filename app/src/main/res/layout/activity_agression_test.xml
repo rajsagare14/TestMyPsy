@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFF3F3F3"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".AggressionTest">
@@ -26,12 +27,14 @@
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="1"
+            android:background="#C1C1C1"
             android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:divider="@android:drawable/bottom_bar">
 
                 <TextView
                     android:id="@+id/atq1"
@@ -84,7 +87,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq2"
@@ -190,7 +194,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq4"
@@ -296,7 +301,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq6"
@@ -402,7 +408,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq8"
@@ -508,7 +515,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq10"
@@ -614,7 +622,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq12"
@@ -720,7 +729,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq14"
@@ -826,7 +836,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq16"
@@ -932,7 +943,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq18"
@@ -1038,7 +1050,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq20"
@@ -1144,7 +1157,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq22"
@@ -1250,7 +1264,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq24"
@@ -1356,7 +1371,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq26"
@@ -1462,7 +1478,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                android:background="#F3F3F3">
 
                 <TextView
                     android:id="@+id/atq28"
@@ -1569,6 +1586,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#F3F3F3"
                 android:orientation="vertical">
 
                 <Button
@@ -1576,7 +1594,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Button" />
+                    android:text="@string/submit_button" />
 
                 <TextView
                     android:id="@+id/results"
@@ -1588,7 +1606,6 @@
 
         </LinearLayout>
     </ScrollView>
-
 
 
 </LinearLayout>
