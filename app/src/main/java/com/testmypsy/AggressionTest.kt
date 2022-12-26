@@ -724,7 +724,7 @@ class AggressionTest : AppCompatActivity() {
             var aas = atq15res + atq16res + atq17res + atq18res + atq19res + atq20res + atq21res
             var has = atq22res + atq23res + atq24res + atq25res + atq26res + atq27res + atq28res + atq29res
             var aq = pas + vas + aas + has
-            var tres = "Physical Aggression subscale: ${pas}\nVerbal Aggression subscale: ${vas}\nAnger subscale: ${aas}\nHostility subscale: ${has}\nAggression Quotient: ${aq}\n"
+            var tres = "Physical Aggression subscale: ${pas}/45 i.e ${(pas.toFloat()/45)*100}%\nVerbal Aggression subscale: ${vas}/25 i.e ${(vas.toFloat()/25)*100}%\nAnger subscale: ${aas}/35 i.e ${(aas.toFloat()/35)*100}%\nHostility subscale: ${has}/40 i.e ${(has.toFloat()/40)*100}%\nAggression Quotient: ${aq}/145 i.e ${(aq.toFloat()/145)*100}%\n"
             results = findViewById(R.id.results)
             results.text = tres
             if(rg1id==-1 || rg2id==-1 || rg3id==-1 || rg4id==-1 || rg5id==-1 || rg6id==-1 || rg7id==-1 || rg8id==-1 || rg9id==-1 || rg10id==-1 || rg11id==-1 || rg12id==-1 || rg13id==-1 || rg14id==-1 || rg15id==-1 || rg16id==-1 || rg17id==-1 || rg18id==-1 || rg19id==-1 || rg20id==-1 || rg21id==-1 || rg22id==-1 || rg23id==-1 || rg24id==-1 || rg25id==-1 || rg26id==-1 || rg27id==-1 || rg28id==-1 || rg29id==-1){
