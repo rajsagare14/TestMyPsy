@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestMyPsy</string>
+    <string name="agression_test">Agression Test</string>
+    <string name="take_test">Take Test</string>
+</resources>
