@@ -38,4 +38,5 @@
     <string name="atq20">Sometimes I fly off the handle for no good reason.</string>
     <string name="atq4">I get into fights a little more than the average person.</string>
     <string name="submit_button">Submit</string>
+    <string name="back_button">Back</string>
 </resources>
