@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center_horizontal"
+    android:gravity="center"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -18,7 +18,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:gravity="center">
 
         <TextView
@@ -33,32 +33,6 @@
 
         <Button
             android:id="@+id/aggressionTestButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_weight="1"
-            android:backgroundTint="#FF9800"
-            android:gravity="center"
-            android:text="@string/take_test" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center">
-
-        <TextView
-            android:id="@+id/editTextTextPersonName1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:gravity="center"
-            android:inputType="textPersonName"
-            android:text="@string/ei_test"
-            android:textSize="20sp" />
-
-        <Button
-            android:id="@+id/EITestButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
