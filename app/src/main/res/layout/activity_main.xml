@@ -54,7 +54,7 @@
             android:ems="10"
             android:gravity="center"
             android:inputType="textPersonName"
-            android:text="@string/agression_test"
+            android:text="@string/eiTest"
             android:textSize="20sp" />
 
         <Button
