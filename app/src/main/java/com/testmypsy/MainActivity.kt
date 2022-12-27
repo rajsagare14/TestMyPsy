@@ -14,5 +14,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,AggressionTest::class.java)
             startActivity(intent)
         }
+        val EIButton = findViewById<Button>(R.id.EITestButton)
+        EIButton.setOnClickListener {
+            val intent = Intent(this,EITest::class.java)
+            startActivity(intent)
+        }
+
     }
 }
