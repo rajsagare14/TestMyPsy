@@ -15,7 +15,7 @@
         android:layout_height="100dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="@string/agression_test"
+        android:text="@string/eiTest"
         android:textSize="30sp" />
 
     <ScrollView

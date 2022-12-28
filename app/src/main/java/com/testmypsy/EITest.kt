@@ -733,7 +733,7 @@ class EITest : AppCompatActivity() {
             disp.text = tres
             back = findViewById(R.id.back_button)
             back.setOnClickListener {
-                val intent = Intent(this,AggressionTest::class.java)
+                val intent = Intent(this,EITest::class.java)
                 startActivity(intent)
             }
         }

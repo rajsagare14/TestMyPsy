@@ -19,6 +19,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,EITest::class.java)
             startActivity(intent)
         }
+        val QOLButton = findViewById<Button>(R.id.QOLTestButton)
+        QOLButton.setOnClickListener {
+            val intent = Intent(this,QOLTest::class.java)
+            startActivity(intent)
+        }
 
     }
 }

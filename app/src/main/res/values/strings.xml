@@ -117,4 +117,35 @@
     <string name="qol24">How satisfied are you with your access to health services?</string>
     <string name="qol25"> How satisfied are you with your mode of transportation?</string>
     <string name="qol26">How often do you have negative feelings, such as blue mood, despair, anxiety, depression?</string>
+
+    <string name="very_poor">Very Poor</string>
+    <string name="poor">Poor</string>
+    <string name="neither_nor_poor">Neither poor nor good</string>
+    <string name="good">Good</string>
+    <string name="very_good">Very Good</string>
+    <string name="not_at_all">Not at All</string>
+    <string name="a_little">A Little</string>
+    <string name="a_moderate_amount">A Moderate Amount</string>
+    <string name="moderately">Moderately</string>
+    <string name="mostly">Mostly</string>
+    <string name="completely">Completely</string>
+    <string name="very_much">Very Much</string>
+    <string name="extreme_amount">An Extreme Amount</string>
+    <string name="extremely">Extremely</string>
+    <string name="very_dissatisfied">Very Dissatisfied</string>
+    <string name="dissatisfied">Dissatisfied</string>
+    <string name="neither_nor_dissatisfied">Neither Satisfied Nor Dissatisfied</string>
+    <string name="satisfied">Satisfied</string>
+    <string name="never">Never</string>
+    <string name="seldom">Seldom</string>
+    <string name="very_often">Very Often</string>
+
+    <string name="neither_nor_well">Neither Poor Nor Well</string>
+    <string name="well">Well</string>
+    <string name="very_well">Very Well</string>
+
+    <string name="quite_often">Quite Often</string>
+    <string name="always">Always</string>
+    <string name="very_satisfied">Very Satisfied</string>
+
 </resources>
