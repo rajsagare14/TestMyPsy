@@ -1,7 +1,7 @@
 
 # Add your own tests to the app
-
-## Follow the Procedure Below
+***
+## Follow the Procedure Below to Create XML of Tests
 
 ### Step 1: **Make changes to activity_main.xml file**.
 1. Copy the linear layout code for the test name and button and paste it right below.
@@ -41,4 +41,10 @@ Note the id of button. It will be required later.
 6. In line no 48 rg1 stands for Radio Group 1. this group of radio buttons store the answer to question 1 and so on
 7. in line no 55 qol1r5 means  (qol1) quality of life question 1 and (r5) radio button 5
 8. Rename all radio groups and radio buttons in a similar way.
-9. 
+
+### Make all XMLs in this way before adding the kotlin code!
+
+***
+## Follow Procedure Below to create Kotlin code for XMLs
+  
+### Step 1: ****
