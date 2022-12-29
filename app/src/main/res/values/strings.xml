@@ -13,7 +13,7 @@
     <string name="atq29">When people are especially nice to me, I wonder what they want.</string>
     <string name="atq10">I tell my friends openly when I disagree with them.</string>
     <string name="atq9">I have become so mad that I have broken things.</string>
-    <string name="atq13">I can’t help getting into arguments when people disagree with me.</string>
+    <string name="atq13">I can\'t help getting into arguments when people disagree with me.</string>
     <string name="atq25">I wonder why sometimes I feel so bitter about things.</string>
     <string name="atq1">Once in a while, I can’t control the urge to strike another person.</string>
     <string name="atq18">I am an even-tempered person.</string>
@@ -147,5 +147,110 @@
     <string name="quite_often">Quite Often</string>
     <string name="always">Always</string>
     <string name="very_satisfied">Very Satisfied</string>
+
+    <string name="ptTest">Personality Test</string>
+    <string name = "ptq1">1. Am the life of the party.</string>
+    <string name = "ptq2">2. Feel little concern for others.</string>
+    <string name = "ptq3">3. Am always prepared.</string>
+    <string name = "ptq4">4. Get stressed out easily.</string>
+    <string name = "ptq5">5. Have a rich vocabulary.</string>
+    <string name = "ptq6">6. Don\'t talk a lot.</string>
+    <string name = "ptq7">7. Am interested in people.</string>
+    <string name = "ptq8">8. Leave my belongings around.</string>
+    <string name = "ptq9">9. Am relaxed most of the time</string>
+    <string name = "ptq10">10. Have difficulty understanding abstract ideas.</string>
+    <string name = "ptq11">11. Feel comfortable around people. </string>
+    <string name = "ptq12">12. Insult people.</string>
+    <string name = "ptq13">13. Pay attention to details.</string>
+    <string name = "ptq14">14. Worry about things.</string>
+    <string name = "ptq15">15. Have a vivid imagination.</string>
+    <string name = "ptq16">16. Keep in the background.</string>
+    <string name = "ptq17">17. Sympathize with others\' feelings.</string>
+    <string name = "ptq18">18. Make a mess of things.</string>
+    <string name = "ptq19">19. Seldom feel blue.</string>
+    <string name = "ptq20">20. Am not interested in abstract ideas</string>
+
+    <string name = "ptq21">21. Start conversations.</string>
+    <string name = "ptq22">22. Am not interested in other people\'s problems.</string>
+    <string name = "ptq23">23. Get chores done right away.</string>
+    <string name = "ptq24">24. Am easily disturbed. </string>
+    <string name = "ptq25">25. Have excellent ideas.</string>
+    <string name = "ptq26">26. Have little to say.</string>
+    <string name = "ptq27">27. Have a soft heart</string>
+    <string name = "ptq28">28. Often forget to put things back in their proper place.</string>
+    <string name = "ptq29">29. Get upset easily.</string>
+
+
+    <string name = "ptq30">30. Do not have a good imagination</string>
+    <string name = "ptq31">31. Talk to a lot of different people at parties.</string>
+    <string name = "ptq32">32. Am not really interested in others.</string>
+    <string name = "ptq33">33. Like order.</string>
+    <string name = "ptq34">34. Change my mood a lot.</string>
+    <string name = "ptq35">35. Am quick to understand things.</string>
+    <string name = "ptq36">36. Don\'t like to draw attention to myself.</string>
+    <string name = "ptq37">37. Take time out for others.</string>
+    <string name = "ptq38">38. Shirk my duties</string>
+    <string name = "ptq39">39. Have frequent mood swings.</string>
+
+
+    <string name = "ptq40">40. Use difficult words.</string>
+    <string name = "ptq41">41. Don\'t mind being the center of attention.</string>
+    <string name = "ptq42">42. Feel others emotions</string>
+    <string name = "ptq43">43. Follow a schedule</string>
+    <string name = "ptq44">44. Get irritated easily</string>
+    <string name = "ptq45">45. Spend time reflecting on things</string>
+    <string name = "ptq46">46. Am quiet around strangers</string>
+    <string name = "ptq47">47. Make people feel at ease.</string>
+    <string name = "ptq48">48. Am exacting in my work</string>
+    <string name = "ptq49">49. Often feel blue.</string>
+
+    <string name = "ptq50">50. Am full of ideas.</string>
+
+    <string name = "saTest">SelfActualization Test</string>
+
+    <string name = "sa1">1. I understand that taking some risk to realize one\'s potential is always better. </string>
+    <string name = "sa2">2. I make all possible efforts to achieve my goal. </string>
+    <string name = "sa3">3. It is better to maintain your individuality than to be like others. </string>
+    <string name = "sa4">4. People love me because I love others too</string>
+    <string name = "sa5">5. I am bothered by the fear of being inadequate in my work</string>
+    <string name = "sa6">6. In context of new ideas and experiences I am always ready to change my opinion and values. </string>
+    <string name = "sa7">7. I have little interest in solving complex problems or making it easy. </string>
+    <string name = "sa8">8. I have no mission in life to which I feel dedicated. </string>
+    <string name = "sa9">9. I do not feel ashamed of any of my emotions. </string>
+    <string name = "sa10">10. I feel that I have right to be angry at those I love.</string>
+    <string name = "sa11">11. I am honest to myself as well as to others</string>
+    <string name = "sa12">12. I do not take the responsibility of helping anybody</string>
+    <string name = "sa13">13. I believe that people are essentially good and they can be trusted upon. </string>
+    <string name = "sa14">14. 1 do not accept my weaknesses</string>
+    <string name = "sa15">15. I feel essential to evaluate my merits and demerits. </string>
+    <string name = "sa16">16. 1 do not feel hesitation in expressing my feeling knowing fully well that its consequence will not be good</string>
+    <string name = "sa17">17. It is a difficult task for me to achieve something in accordance with my potential.</string>
+    <string name = "sa18">18. I have a clear vision of my needs, opinion and values.</string>
+    <string name = "sa19">19. For me satisfaction of my physical needs is more essential than constructiveness and creativity. </string>
+    <string name = "sa20">20. I am afraid of failure. </string>
+    <string name = "sa21">21. I am fully conscious of my potentialities</string>
+    <string name = "sa22">22. I can like even those with whom I have disagreement. </string>
+
+    <string name = "spiTest">Social Phobia Test</string>
+    <string name = "spt1">1. I am afraid of people in authority.</string>
+    <string name = "spt2">2. I am bothered by blushing in front of people. </string>
+    <string name = "spt3">3. Parties and social events scare me. </string>
+    <string name = "spt4">4. I avoid talking to people I don’t know. </string>
+    <string name = "spt5">5. Being criticized scares me a lot. </string>
+    <string name = "spt6">6. I avoid doing things or speaking to people for fear of embarrassment. </string>
+    <string name = "spt7">7. Sweating in front of people causes me distress. </string>
+    <string name = "spt8">8. I avoid going to parties. </string>
+    <string name = "spt9">9. I avoid activities in which I am the center of attention </string>
+    <string name = "spt10">10. Talking to strangers scares me. </string>
+    <string name = "spt11">11. I avoid having to give speeches </string>
+    <string name = "spt12">12. I would do anything to avoid being criticized. </string>
+    <string name = "spt13">13. Heart palpitations bother me when I am around people. </string>
+    <string name = "spt14">14. I am afraid of doing things when people might be watching. </string>
+    <string name = "spt15">15. Being embarrassed or looking stupid are among my worst fears. </string>
+    <string name = "spt16">16. I avoid speaking to anyone in authority. </string>
+    <string name = "spt17">17. Trembling or shaking in front of others is distressing to me. </string>
+
+
+
 
 </resources>

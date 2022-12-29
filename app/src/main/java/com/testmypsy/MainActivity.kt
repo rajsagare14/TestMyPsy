@@ -24,6 +24,20 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,QOLTest::class.java)
             startActivity(intent)
         }
-
+        val PTButton = findViewById<Button>(R.id.PTButton)
+        PTButton.setOnClickListener {
+            val intent = Intent(this,PTest::class.java)
+            startActivity(intent)
+        }
+        val SaButton = findViewById<Button>(R.id.SAButton)
+        SaButton.setOnClickListener {
+            val intent = Intent(this,SaTest::class.java)
+            startActivity(intent)
+        }
+        val SpButton = findViewById<Button>(R.id.SPIButton)
+        SpButton.setOnClickListener {
+            val intent = Intent(this,sptest::class.java)
+            startActivity(intent)
+        }
     }
 }
