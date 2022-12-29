@@ -34,6 +34,12 @@ Note the id of button. It will be required later.
 
 ### Step 4: **Adding Questions to Test page**
 1. Copy code from **<a href = "https://github.com/rajsagare14/TestMyPsy/blob/main/app/src/main/res/layout/activity_qoltest.xml">activity_qoltest.xml</a>** and paste it into your test pages xml file.  
-  
-  
+2. Change line no 10 of above file to **tools:context =".yourActivityName"**   
+3. Change line no 17 of above file to **android:text="@string/yourTestName"**
+4. Change line no 39 and 44 of above file, in place of qol1 put your test names short form followed by question number.
+5. Replace all instances of the above step in whole code. Keep checking the design to ensure appropriate changes are being made.
+5. In line no 48 rg1 stands for Radio Group 1. this group of radio buttons store the answer to question 1 and so on
+6. in line no 55 qol1r5 means  (qol1) quality of life question 1 and (r5) radio button 5
+7. Rename all radio groups and radio buttons in a similar way.
+8. 
   
