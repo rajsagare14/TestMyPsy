@@ -7,7 +7,7 @@
     android:background="#FFF3F3F3"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".AggressionTest">
+    tools:context=".QOLTest">
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
