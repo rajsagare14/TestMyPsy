@@ -39,5 +39,20 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this,sptest::class.java)
             startActivity(intent)
         }
+        val ocdButton = findViewById<Button>(R.id.OCDButton)
+        ocdButton.setOnClickListener {
+            val intent = Intent(this,OCDTest::class.java)
+            startActivity(intent)
+        }
+        val iaButton = findViewById<Button>(R.id.IAButton)
+        iaButton.setOnClickListener {
+            val intent = Intent(this,IATest::class.java)
+            startActivity(intent)
+        }
+        val eqButton = findViewById<Button>(R.id.EQButton)
+        eqButton.setOnClickListener {
+            val intent = Intent(this,EQTest::class.java)
+            startActivity(intent)
+        }
     }
 }

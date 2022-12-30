@@ -55,31 +55,31 @@
                         android:id="@+id/sa1r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_good" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa1r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/good" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa1r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_poor" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa1r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/poor" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa1r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_poor" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -109,31 +109,31 @@
                         android:id="@+id/sa2r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa2r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa2r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa2r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa2r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -162,31 +162,31 @@
                         android:id="@+id/sa3r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa3r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa3r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa3r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa3r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -216,31 +216,31 @@
                         android:id="@+id/sa4r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa4r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa4r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa4r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa4r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -269,31 +269,31 @@
                         android:id="@+id/sa5r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa5r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa5r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa5r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa5r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -323,31 +323,31 @@
                         android:id="@+id/sa6r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa6r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa6r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa6r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa6r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -376,31 +376,31 @@
                         android:id="@+id/sa7r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa7r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa7r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa7r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa7r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -430,31 +430,31 @@
                         android:id="@+id/sa8r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa8r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa8r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa8r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa8r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -483,31 +483,31 @@
                         android:id="@+id/sa9r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/extreme_amount" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa9r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_much" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa9r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_moderate_amount" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa9r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa9r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -537,31 +537,31 @@
                         android:id="@+id/sa10r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/completely" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa10r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/mostly" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa10r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/moderately" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa10r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa10r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -590,31 +590,31 @@
                         android:id="@+id/sa11r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/completely" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa11r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/mostly" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa11r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/moderately" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa11r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa11r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -644,31 +644,31 @@
                         android:id="@+id/sa12r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/completely" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa12r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/mostly" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa12r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/moderately" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa12r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa12r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -697,31 +697,31 @@
                         android:id="@+id/sa13r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/completely" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa13r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/mostly" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa13r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/moderately" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa13r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa13r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -751,31 +751,31 @@
                         android:id="@+id/sa14r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/completely" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa14r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/mostly" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa14r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/moderately" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa14r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/a_little" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa14r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/not_at_all" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -804,31 +804,31 @@
                         android:id="@+id/sa15r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_well" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa15r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/well" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa15r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_well" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa15r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/poor" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa15r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_poor" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -858,31 +858,31 @@
                         android:id="@+id/sa16r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa16r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa16r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa16r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa16r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -911,31 +911,31 @@
                         android:id="@+id/sa17r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa17r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa17r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa17r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa17r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -965,31 +965,31 @@
                         android:id="@+id/sa18r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa18r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa18r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa18r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa18r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -1018,34 +1018,33 @@
                         android:id="@+id/sa19r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa19r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa19r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa19r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa19r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
-
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -1072,31 +1071,31 @@
                         android:id="@+id/sa20r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa20r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa20r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa20r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa20r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -1125,31 +1124,31 @@
                         android:id="@+id/sa21r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa21r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa21r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa21r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa21r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
@@ -1179,31 +1178,31 @@
                         android:id="@+id/sa22r5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_satisfied" />
+                        android:text="@string/ex_l" />
 
                     <RadioButton
                         android:id="@+id/sa22r4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/satisfied" />
+                        android:text="@string/sw_l" />
 
                     <RadioButton
                         android:id="@+id/sa22r3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/neither_nor_dissatisfied" />
+                        android:text="@string/neutral" />
 
                     <RadioButton
                         android:id="@+id/sa22r2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/dissatisfied" />
+                        android:text="@string/sw_ul" />
 
                     <RadioButton
                         android:id="@+id/sa22r1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/very_dissatisfied" />
+                        android:text="@string/ex_ul" />
                 </RadioGroup>
             </LinearLayout>
 
